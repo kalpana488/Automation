@@ -1,2 +1,1 @@
-"My First Commit" 
-"# Automation" 
+"# Automation Repository" 
