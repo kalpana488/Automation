@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-15T08:51:33 IST" name="Suite" finished-at="2025-02-15T08:52:11 IST" duration-ms="37664">
+    <groups>
+    </groups>
+    <test started-at="2025-02-15T08:51:33 IST" name="Test" finished-at="2025-02-15T08:52:11 IST" duration-ms="37664">
+      <class name="tests.HomepageTest">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:tests.HomepageTest@593aaf41]" started-at="2025-02-15T08:51:33 IST" name="setUpTest" finished-at="2025-02-15T08:52:07 IST" duration-ms="33560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="testProjectsLink()[pri:1, instance:tests.HomepageTest@593aaf41]" started-at="2025-02-15T08:52:07 IST" name="testProjectsLink" finished-at="2025-02-15T08:52:11 IST" duration-ms="4035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProjectsLink -->
+      </class> <!-- tests.HomepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
